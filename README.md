@@ -202,7 +202,7 @@ function task(genF) {
 }
 ```
 
-Now let's add a 'fetchJSON' function to our Task module. This function creates a Task to retrieve JSON from an URL. This action can be cancelled at any time.
+Now let's add a 'fetchJSON' function to our Task module. This function creates a Task to retrieve JSON from a URL. This action can be cancelled at any time.
 
 ```JavaScript
 function fetchJSON(url) {
